@@ -1,7 +1,7 @@
 # Chatwoot
 Chatwoot - Docker compose
 
-#Ejecutar primero este comando una vez 
+#Ejecutar primero este comando 
 
 docker compose run --rm rails bundle exec rails db:chatwoot_prepare
 
